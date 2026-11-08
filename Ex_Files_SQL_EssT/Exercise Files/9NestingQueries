@@ -1,7 +1,7 @@
 /*
 Created by: HT
 Created on: 08.11.2026
-Description: Subqueries | Gather data about all invoices that are less than this average
+Description: Subqueries in the select | Gather data about all invoices that are less than this average
 */
 
 SELECT
